@@ -42,4 +42,6 @@ If done through command line arguments, the following options are
 If an unrecognized argument is detected, the program will default to
 printing the help message, detailing program usage.
 
+Credit to Professor Darrel Long and the Staff of CSE-13S
+
 Enjoy!
