@@ -45,6 +45,8 @@ If an unrecognized argument is detected, the program will default to
 printing the help message, detailing program usage.
 
 Note: in certain test cases, there may be memory leaks.
+    
+Credit to Professor Darrel Long and the Staff of CSE-13S
 
 Enjoy!
         
