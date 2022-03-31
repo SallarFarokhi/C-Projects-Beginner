@@ -3,7 +3,7 @@ This repo contains C projects from college which helped me learned C.
 Such projects include:
 
 ## TSP - The Traveling Salesman Problem
-Using files that repesent adjacency matricies in a specified format,
+Using files that represent adjacency matrices in a specified format,
 The shortest path including all nodes can be found between two specified
 nodes.
 
